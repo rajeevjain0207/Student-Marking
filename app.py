@@ -57,7 +57,7 @@ for key, default in [
 
 DEFAULT_CRITERIA_PATH = Path(__file__).parent / "criteria.json"
 SUPPORTED_EXT_LIST = sorted(e.lstrip(".") for e in SUPPORTED_EXTS)
-MODELS = ["gpt-4o-mini", "gpt-4o", "gpt-4-turbo", "gpt-4.1-mini", "gpt-4.1", "gpt-3.5-turbo"]
+MODELS = ["gpt-4.1-mini", "gpt-4o", "gpt-4-turbo", "gpt-4.o-mini", "gpt-4.1", "gpt-3.5-turbo"]
 
 
 def load_default_criteria() -> dict | None:
