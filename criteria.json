@@ -30,7 +30,7 @@
       "name": "Fully addresses topics in the writing prompt",
       "short_name": "addresses_prompt",
       "full_marks": 0.5,
-      "partial_marks": 0.25,
+      "partial_marks": 0.5,
       "full_marks_description": "Addresses every part of the writing prompt with substantive responses. No required topic is omitted or treated only in passing.",
       "partial_marks_description": "Addresses some parts of the prompt but not others, or addresses all parts only briefly without sufficient depth."
     }
