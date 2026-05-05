@@ -1,0 +1,38 @@
+{
+  "assignment_name": "Essay 6: Market Segmentation and Go to Market Strategies",
+  "max_marks": 2,
+  "criteria": [
+    {
+      "name": "Makes full use of case studies, lectures, and readings",
+      "short_name": "uses_sources",
+      "full_marks": 0.5,
+      "partial_marks": 0.25,
+      "full_marks_description": "Substantively engages with multiple specific cases, lectures, or readings. Ideas are explicitly connected back to the source material with concrete references (author names, case names, key concepts).",
+      "partial_marks_description": "References source material but only superficially, or engages with only one source, or paraphrases without clear attribution."
+    },
+    {
+      "name": "Weaves in personal experiences from own career and/or anecdotes from others",
+      "short_name": "personal_experience",
+      "full_marks": 0.5,
+      "partial_marks": 0.25,
+      "full_marks_description": "Includes a clear, specific personal example or anecdote (a particular project, role, company, or situation) that is well-integrated into the argument and illustrates the point being made.",
+      "partial_marks_description": "Mentions personal experience briefly, or the anecdote is generic or vague, or it is present but not well-integrated with the analysis."
+    },
+    {
+      "name": "Contains critical insight that goes beyond surface reflection",
+      "short_name": "critical_insight",
+      "full_marks": 0.5,
+      "partial_marks": 0.25,
+      "full_marks_description": "Demonstrates original thinking. Identifies non-obvious connections, challenges or extends ideas in the readings, or applies frameworks in a novel way to the writer's own context.",
+      "partial_marks_description": "Shows engagement with the ideas but mostly summarises rather than analyses, or the insight is conventional and predictable."
+    },
+    {
+      "name": "Fully addresses topics in the writing prompt",
+      "short_name": "addresses_prompt",
+      "full_marks": 0.5,
+      "partial_marks": 0.25,
+      "full_marks_description": "Addresses every part of the writing prompt with substantive responses. No required topic is omitted or treated only in passing.",
+      "partial_marks_description": "Addresses some parts of the prompt but not others, or addresses all parts only briefly without sufficient depth."
+    }
+  ]
+}
